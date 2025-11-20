@@ -6,3 +6,6 @@
 
 **声明**:  
 本脚本仅为个人学习使用，不提供任何关联资源下载，使用时需遵守相关网站的用户协议及相关法律法规。
+
+**预览**:  
+<img width="813" height="438" alt="image" src="https://github.com/user-attachments/assets/7a859cd8-ad39-4005-94d1-56ad1431821d" />
